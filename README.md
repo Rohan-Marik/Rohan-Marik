@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rohan-marik-529a77310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohan-marik-529a77310" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-marik-529a77310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-marik-529a77310/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rohan.marik/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohan.marik/#" height="30" width="40" /></a>
 </p>
 
@@ -21,5 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-marik&show_icons=true&locale=en&layout=compact" alt="rohan-marik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-marik&show_icons=true&locale=en" alt="rohan-marik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-marik&" alt="rohan-marik" /></p>
+k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-marik&" alt="rohan-marik" /></p>
